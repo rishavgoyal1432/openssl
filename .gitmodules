@@ -4,24 +4,24 @@
 
 [submodule "krb5"]
 	path = krb5
-	url = https://github.com/krb5/krb5
+	url = https://github.com/krb5/krb5.git
 
 [submodule "gost-engine"]
 	path = gost-engine
-	url = https://github.com/gost-engine/engine
+	url = https://github.com/gost-engine/engine.git
 	update = rebase
 [submodule "wycheproof"]
 	path = wycheproof
-	url = https://github.com/google/wycheproof
+	url = https://github.com/google/wycheproof.git
 [submodule "tlsfuzzer"]
 	path = tlsfuzzer
-	url = https://github.com/tlsfuzzer/tlsfuzzer
+	url = https://github.com/tlsfuzzer/tlsfuzzer.git
 [submodule "python-ecdsa"]
 	path = python-ecdsa
-	url = https://github.com/tlsfuzzer/python-ecdsa
+	url = https://github.com/tlsfuzzer/python-ecdsa.git
 [submodule "tlslite-ng"]
 	path = tlslite-ng
-	url = https://github.com/tlsfuzzer/tlslite-ng
+	url = https://github.com/tlsfuzzer/tlslite-ng.git
 [submodule "oqs-provider"]
 	path = oqs-provider
 	url = https://github.com/open-quantum-safe/oqs-provider.git
